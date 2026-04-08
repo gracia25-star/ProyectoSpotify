@@ -84,7 +84,7 @@ pip install -r requirements.txt
 # ▶️ Ejecución de la aplicación
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---
