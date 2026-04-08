@@ -73,12 +73,6 @@ tsource venv/bin/activate
 venv\\Scripts\\activate
 ```
 
-Instala las dependencias:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 # ▶️ Ejecución de la aplicación
